@@ -1,4 +1,4 @@
-# NEXUS SEC OS V2
+# NEXUS SEC OS V2 /  CyberCore
 
 Cyberpunk cybersecurity simulation operating system.
 
